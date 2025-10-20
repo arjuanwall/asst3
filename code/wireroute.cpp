@@ -14,6 +14,7 @@
 #include <vector>
 #include <cmath>
 #include <random>
+#include <climits>
 
 #include <unistd.h>
 #include <omp.h>
